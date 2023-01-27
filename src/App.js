@@ -2,7 +2,7 @@
 import './App.css';
 import { useEffect, useState } from "react"
 // import axios from "axios"
-const API = "https://new-folder-ruddy.vercel.app/"
+const API = "https://new-folder-ruddy.vercel.app"
 function App() {
   return (
     <div className="App">
